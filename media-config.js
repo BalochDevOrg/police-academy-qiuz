@@ -1,2 +1,2 @@
-// Add the English call recording when supplied, for example: 'call-english.mp3'.
+// Call recording is played immediately after the intro video.
 window.CALL_AUDIO_FILE = null;
