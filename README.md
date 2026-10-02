@@ -22,3 +22,6 @@ The supplied scenario has 20 fully specified interactive stages; its route map a
 
 3. In Vercel, select **Add New → Project**, import that GitHub repository, set the framework preset to **Other**, leave the build command empty and output directory at the repository root, then deploy.
 4. Share the Vercel preview URL with the client. All PDFs in `materials/` can be opened by anyone who has the deployed URLs; use Vercel deployment protection if the case documents should have restricted access.
+
+
+Latest flow: greeting → supplied video → mandatory viewing checkbox → supplied call audio → quiz. Critical mistakes fill the red boss patience meter; the third ends the attempt. Selected documents require a written observation. Stage 19 supports multiple selections. Keep the entire materials folder, including previews, with index.html.
