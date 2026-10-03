@@ -49,3 +49,7 @@ For quick filming, use the browser at 100% zoom, hide bookmarks and notification
 - Condensed correct options; the correct answer is shorter than a distractor in 10 stages. Feedback, answer statuses and scenario order are preserved.
 - Stage 19 has all 14 requested new alternatives (18 total), a two-column desktop layout, and exact-set multiple-answer checking. Added «Возможна совокупность нескольких правонарушений.» after the situation. Added alternatives are marked incorrect under the existing scenario key; an instructor must identify any additional correct alternatives before changing grading.
 - Validation: JavaScript syntax, simulated interaction tests across all 20 stages, video confirmation/seek handling, text gates, multi-select and meter behavior passed. All 14 PDFs render, and bundled raster images decode. Full browser/device playback and visual QA still need a client test.
+
+## October 3 revisions
+- Corrected «соседку» to «соседа», «роверка» to «проверка», and the wording about approaching the footprint and checking footwear.
+- After an attempt, trainees enter full name and group number, then use the PDF result button. It opens the browser print dialog; choose Save as PDF. The print layout includes identity, date, status, score, correct decisions, mistakes, hints, reviewed documents and critical-error details. Names and group numbers must be nonblank. Works offline through browser printing.
